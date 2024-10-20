@@ -1,0 +1,6 @@
+opencv-python
+streamlit
+streamlit-drawable-canvas
+torch
+torchvision
+matplotlib
